@@ -1,0 +1,3 @@
+C:\Users\Daxx\Documents\Unreal Projects\OurGameA\Source\OurGameA\OurGameA.Build.cs
+C:\Users\Daxx\Documents\Unreal Projects\OurGameA\Source\OurGameA.Target.cs
+C:\Users\Daxx\Documents\Unreal Projects\OurGameA\Source\OurGameAEditor.Target.cs
